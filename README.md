@@ -1,2 +1,56 @@
-# Awesome-RunPod
-A curated list of amazing RunPod projects, libraries, and resources
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/95939477?s=200&v=4" alt="Awesome RunPod Logo" width="300" />
+</p>
+<h1 align="center">Awesome RunPod</h1>
+<p align="center">A curated list of amazing RunPod projects, libraries, and resources</p>
+
+<p align="center">
+  <a href="#tools">Tools</a> •
+  <a href="#workers">Serverless Workewrs</a> •
+  <a href="#resources">Resources</a> •
+  <a href="#contributing">Contributing</a>
+</p>
+
+## Contents
+
+- [Tools](#tools)
+- [Serverless Workers](#workers)
+- [Resources](#resources)
+- [Contributing](#contributing)
+
+<a name="tools"></a>
+
+## Tools
+
+A collection of awesome RunPod Templates:
+
+1. [**runpodctl**](https://github.com/runpod/runpodctl) - RunPod CLI for pod management.
+
+
+<a name="workers"></a>
+
+## Serverless Workers
+
+A list of Serverless Workers to kickstart your RunPod projects:
+
+1. [**RunPod Serverless Workers**](https://github.com/user/repo) - A basic starter template for building RunPod applications.
+2. [**RunPod Serverless Workers 2**](https://github.com/user/repo) - A template for building APIs with RunPod.
+3. [**RunPod Serverless Workers 3**](https://github.com/user/repo) - A template for deploying machine learning models with RunPod.
+
+<a name="resources"></a>
+
+## Resources
+
+A collection of useful resources to help you learn more about RunPod:
+
+1. [**RunPod Official Documentation**](https://runpod.example.com/docs) - The official documentation for RunPod.
+2. [**RunPod Community Forum**](https://community.runpod.example.com) - A forum for discussing RunPod-related topics with other users.
+3. [**RunPod Tutorials**](https://runpod.example.com/tutorials) - A collection of tutorials for learning how to use RunPod.
+
+<a name="contributing"></a>
+
+## Contributing
+
+Contributions are always welcome! To add a project, template, or resource to the list, please [submit a pull request](https://github.com/user/awesome-runpod/pulls) or [open an issue](https://github.com/user/awesome-runpod/issues/new) with the link and a brief description.
+
