@@ -23,7 +23,7 @@
 
 ## Tools
 
-A collection of awesome RunPod Templates:
+A collection of awesome RunPod tools:
 
 1. [**runpodctl**](https://github.com/runpod/runpodctl) - RunPod CLI for pod management.
 
