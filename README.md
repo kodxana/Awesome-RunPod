@@ -26,6 +26,7 @@
 A collection of awesome RunPod tools:
 
 1. [**runpodctl**](https://github.com/runpod/runpodctl) - RunPod CLI for pod management.
+2. [**EveryDream2**](https://github.com/victorchall/EveryDream2trainer) ([RunPod template](https://runpod.io/gsc?template=d1v63jb36t&ref=bbp9dh8x)) - General fine tuning for Stable Diffusion
 
 
 <a name="workers"></a>
