@@ -53,5 +53,5 @@ A collection of useful resources to help you learn more about RunPod:
 
 ## Contributing
 
-Contributions are always welcome! To add a project, template, or resource to the list, please [submit a pull request](https://github.com/user/awesome-runpod/pulls) or [open an issue](https://github.com/user/awesome-runpod/issues/new) with the link and a brief description.
+Contributions are always welcome! To add a project, template, or resource to the list, please [submit a pull request](https://github.com/kodxana/Awesome-RunPod/pulls) or [open an issue](https://github.com/kodxana/Awesome-RunPod/issues/new) with the link and a brief description.
 
