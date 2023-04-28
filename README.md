@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="#tools">Tools</a> •
-  <a href="#workers">Serverless Workewrs</a> •
+  <a href="#templates">Templates</a> •
+  <a href="#workers">Serverless Workers</a> •
   <a href="#resources">Resources</a> •
   <a href="#contributing">Contributing</a>
 </p>
@@ -15,6 +16,7 @@
 ## Contents
 
 - [Tools](#tools)
+- [Templates](#templates)
 - [Serverless Workers](#workers)
 - [Resources](#resources)
 - [Contributing](#contributing)
@@ -27,6 +29,11 @@ A collection of awesome RunPod tools:
 
 1. [**runpodctl**](https://github.com/runpod/runpodctl) - RunPod CLI for pod management.
 
+<a name="templates"></a>
+
+## Templates
+
+A collection of awesome RunPod templates:
 
 <a name="workers"></a>
 
