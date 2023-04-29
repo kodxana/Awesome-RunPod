@@ -37,8 +37,9 @@ A collection of awesome RunPod tools:
 A collection of awesome RunPod templates:
 
 1. [**EveryDream2**](https://runpod.io/gsc?template=d1v63jb36t&ref=bbp9dh8x) - General fine tuning for Stable Diffusion [Repo/Readme](https://github.com/victorchall/EveryDream2trainer)
-2. [**InvokeAI**](https://www.runpod.io/console/gpu-secure-cloud?template=vm19ukkycf) - A Stable Diffusion Toolkit [Repo/Readme](https://github.com/invoke-ai/InvokeAI)
-3. [**KoboldAI**](https://koboldai.org/runpod) - Browser-based front-end for AI-assisted writing with multiple local & remote AI models [Repo/Readme](https://github.com/KoboldAI/KoboldAI-Client)
+2. [**Fast Stable Diffusion**](https://www.runpod.io/gsc?template=runpod-stable-unified) - Colab & Runpod & Paperspace adaptations AUTOMATIC1111 Webui and Dreambooth. [Repo/Readme](https://github.com/TheLastBen/fast-stable-diffusion)
+3. [**InvokeAI**](https://www.runpod.io/gsc?template=vm19ukkycf) - A Stable Diffusion Toolkit [Repo/Readme](https://github.com/invoke-ai/InvokeAI)
+4. [**KoboldAI**](https://koboldai.org/runpod) - Browser-based front-end for AI-assisted writing with multiple local & remote AI models [Repo/Readme](https://github.com/KoboldAI/KoboldAI-Client)
 
 
 <a name="workers"></a>
