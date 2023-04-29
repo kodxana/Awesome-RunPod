@@ -28,6 +28,7 @@
 A collection of awesome RunPod tools:
 
 1. [**runpodctl**](https://github.com/runpod/runpodctl) - RunPod CLI for pod management.
+2. [**runpod-python**](https://github.com/runpod/runpod-python) - Python library for RunPod API & SDK.
 
 <a name="templates"></a>
 
