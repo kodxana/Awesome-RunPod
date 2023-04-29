@@ -36,6 +36,7 @@ A collection of awesome RunPod tools:
 A collection of awesome RunPod templates:
 
 1. [**EveryDream2**](https://runpod.io/gsc?template=d1v63jb36t&ref=bbp9dh8x) - General fine tuning for Stable Diffusion [Repo/Readme](https://github.com/victorchall/EveryDream2trainer)
+2. [**InvokeAI**](https://www.runpod.io/console/gpu-secure-cloud?template=vm19ukkycf) - A Stable Diffusion Toolkit [Repo/Readme](https://github.com/invoke-ai/InvokeAI)
 
 
 <a name="workers"></a>
