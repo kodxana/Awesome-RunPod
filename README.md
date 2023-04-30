@@ -62,6 +62,14 @@ A collection of useful resources to help you learn more about RunPod:
 2. [**RunPod Community Forum**](https://community.runpod.example.com) - A forum for discussing RunPod-related topics with other users.
 3. [**RunPod Tutorials**](https://runpod.example.com/tutorials) - A collection of tutorials for learning how to use RunPod.
 
+### Video Tutorials
+1. [**Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI**](https://youtu.be/QN1vdGhjcRc)
+2. [**RunPod Fix For DreamBooth & xFormers - How To Use Automatic1111 Web UI Stable Diffusion on RunPod**](https://youtu.be/zA4LksIVas8)
+3. [**On RunPod - Automatic1111 Stable Diffusion DreamBooth Guide: Optimal Classification Images Count Comparison Test**](https://youtu.be/Tb4IYIYm4os)
+4. [**Epic Web UI DreamBooth Update - New Best Settings - 10 Stable Diffusion Training Compared on RunPods**](https://youtu.be/sRdtVanSRl4)
+5. [**On RunPod - Training Midjourney Level Style And Yourself Into The SD 1.5 Model via DreamBooth Stable Diffusion**](https://youtu.be/m-UVVY_syP0)
+
+
 <a name="contributing"></a>
 
 ## Contributing
