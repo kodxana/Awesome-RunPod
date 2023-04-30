@@ -10,6 +10,7 @@
   <a href="#templates">Templates</a> •
   <a href="#workers">Serverless Workers</a> •
   <a href="#resources">Resources</a> •
+  <a href="#videos">Video Tutorials</a> •
   <a href="#contributing">Contributing</a>
 </p>
 
@@ -19,6 +20,7 @@
 - [Templates](#templates)
 - [Serverless Workers](#workers)
 - [Resources](#resources)
+- [Video Tutorials](#videos)
 - [Contributing](#contributing)
 
 <a name="tools"></a>
@@ -61,6 +63,8 @@ A collection of useful resources to help you learn more about RunPod:
 1. [**RunPod Official Documentation**](https://runpod.example.com/docs) - The official documentation for RunPod.
 2. [**RunPod Community Forum**](https://community.runpod.example.com) - A forum for discussing RunPod-related topics with other users.
 3. [**RunPod Tutorials**](https://runpod.example.com/tutorials) - A collection of tutorials for learning how to use RunPod.
+
+<a name="videos"></a>
 
 ### Video Tutorials
 1. [**Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI**](https://youtu.be/QN1vdGhjcRc)
