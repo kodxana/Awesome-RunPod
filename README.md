@@ -50,9 +50,12 @@ A collection of awesome RunPod templates:
 
 A list of Serverless Workers to kickstart your RunPod projects:
 
-1. [**RunPod Serverless Workers**](https://github.com/user/repo) - A basic starter template for building RunPod applications.
-2. [**RunPod Serverless Workers 2**](https://github.com/user/repo) - A template for building APIs with RunPod.
-3. [**RunPod Serverless Workers 3**](https://github.com/user/repo) - A template for deploying machine learning models with RunPod.
+1. [**DreamBooth Worker**](https://github.com/runpod-workers/worker-dreambooth) - RunPod worker for the DreamBooth endpoint.
+2. [**Kandinsky Worker**](https://github.com/runpod-workers/worker-kandinsky) - RunPod worker for the Kandinsky endpoint.
+3. [**Stable Diffusion v1 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v1) - RunPod worker for all Stable Diffusion v1 endpoints.
+4. [**Stable Diffusion v2 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v2) - RunPod worker for the Stable Diffusion v2 endpoints.
+5. [**Template Worker**](https://github.com/runpod-workers/worker-template) - A simple worker that can be used as a starting point to build your own custom RunPod Endpoint API worker.
+6. [**Whisper Worker**](https://github.com/runpod-workers/worker-whisper) - Whisper Worker for RunPod: Processing and transcribing audio with various Whisper models. Part of RunPod Workers collection.
 
 <a name="resources"></a>
 
