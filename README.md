@@ -64,9 +64,9 @@ A list of Serverless Workers to kickstart your RunPod projects:
 
 A collection of useful resources to help you learn more about RunPod:
 
-1. [**RunPod Official Documentation**](https://runpod.example.com/docs) - The official documentation for RunPod.
-2. [**RunPod Community Forum**](https://community.runpod.example.com) - A forum for discussing RunPod-related topics with other users.
-3. [**RunPod Tutorials**](https://runpod.example.com/tutorials) - A collection of tutorials for learning how to use RunPod.
+1. [**RunPod Official Documentation**](https://docs.runpod.io/) - The official documentation for RunPod.
+2. [**RunPod Discord**](https://discord.gg/cUpRmau42V) - A Discord server for discussing RunPod-related topics with other users.
+3. [**RunPod Blog**](https://blog.runpod.io/) - A collection of blog posts for learning how to use RunPod.
 
 <a name="videos"></a>
 
