@@ -52,10 +52,11 @@ A list of Serverless Workers to kickstart your RunPod projects:
 
 1. [**DreamBooth Worker**](https://github.com/runpod-workers/worker-dreambooth) - RunPod worker for the DreamBooth endpoint.
 2. [**Kandinsky Worker**](https://github.com/runpod-workers/worker-kandinsky) - RunPod worker for the Kandinsky endpoint.
-3. [**Stable Diffusion v1 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v1) - RunPod worker for all Stable Diffusion v1 endpoints.
-4. [**Stable Diffusion v2 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v2) - RunPod worker for the Stable Diffusion v2 endpoints.
-5. [**Template Worker**](https://github.com/runpod-workers/worker-template) - A simple worker that can be used as a starting point to build your own custom RunPod Endpoint API worker.
-6. [**Whisper Worker**](https://github.com/runpod-workers/worker-whisper) - Whisper Worker for RunPod: Processing and transcribing audio with various Whisper models. Part of RunPod Workers collection.
+3. [**RVC Serverless**](https://github.com/chavinlo/rvc-runpod) - Simple RVC Serverless Endpoint for Runpod built upon Mangio-RVC-Fork.
+4. [**Stable Diffusion v1 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v1) - RunPod worker for all Stable Diffusion v1 endpoints.
+5. [**Stable Diffusion v2 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v2) - RunPod worker for the Stable Diffusion v2 endpoints.
+6. [**Template Worker**](https://github.com/runpod-workers/worker-template) - A simple worker that can be used as a starting point to build your own custom RunPod Endpoint API worker.
+7. [**Whisper Worker**](https://github.com/runpod-workers/worker-whisper) - Whisper Worker for RunPod: Processing and transcribing audio with various Whisper models. Part of RunPod Workers collection.
 6. [**Serverless GGML**](https://github.com/OpenAccess-AI-Collective/servereless-runpod-ggml) - GGML Worker image for streaming predictions from large language models quantized with GGML.
 
 <a name="resources"></a>
