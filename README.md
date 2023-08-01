@@ -42,6 +42,9 @@ A collection of awesome RunPod templates:
 2. [**Fast Stable Diffusion**](https://www.runpod.io/gsc?template=runpod-stable-unified) - Colab & Runpod & Paperspace adaptations AUTOMATIC1111 Webui and Dreambooth. [Repo/Readme](https://github.com/TheLastBen/fast-stable-diffusion)
 3. [**InvokeAI**](https://www.runpod.io/gsc?template=vm19ukkycf) - A Stable Diffusion Toolkit [Repo/Readme](https://github.com/invoke-ai/InvokeAI)
 4. [**KoboldAI**](https://koboldai.org/runpod) - Browser-based front-end for AI-assisted writing with multiple local & remote AI models [Repo/Readme](https://github.com/KoboldAI/KoboldAI-Client)
+5. [**Kohya_ss**](https://runpod.io/gsc?template=51q837fywe&ref=2xxro4sy) - Kohya_ss fine tuning for Stable Diffusion [Repo/Readme](https://github.com/ashleykleynhans/kohya-docker)
+6. [**Stable Diffusion/Dreambooth/ControlNet/Deforum/Roop/Kohya_ss**](https://runpod.io/gsc?template=ya6013lj5a&ref=2xxro4sy) - A combined template for the AUTOMATIC1111 Web UI including the Dreambooth, ControlNet, Roop, Deforum and SDXL Refiner extensions, as well as Kohya_ss [Repo/Readme](https://github.com/ashleykleynhans/stable-diffusion-docker)
+7. [**Text Generation Web UI and API**](https://runpod.io/gsc?template=el5m58e1to&ref=2xxro4sy) - Oobabooga Text Generation Web UI and API [Repo/Readme](https://github.com/ashleykleynhans/text-generation-docker)
 
 
 <a name="workers"></a>
@@ -50,14 +53,19 @@ A collection of awesome RunPod templates:
 
 A list of Serverless Workers to kickstart your RunPod projects:
 
-1. [**DreamBooth Worker**](https://github.com/runpod-workers/worker-dreambooth) - RunPod worker for the DreamBooth endpoint.
-2. [**Kandinsky Worker**](https://github.com/runpod-workers/worker-kandinsky) - RunPod worker for the Kandinsky endpoint.
-3. [**RVC Serverless**](https://github.com/chavinlo/rvc-runpod) - Simple RVC Serverless Endpoint for Runpod built upon Mangio-RVC-Fork.
-4. [**Stable Diffusion v1 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v1) - RunPod worker for all Stable Diffusion v1 endpoints.
-5. [**Stable Diffusion v2 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v2) - RunPod worker for the Stable Diffusion v2 endpoints.
-6. [**Template Worker**](https://github.com/runpod-workers/worker-template) - A simple worker that can be used as a starting point to build your own custom RunPod Endpoint API worker.
-7. [**Whisper Worker**](https://github.com/runpod-workers/worker-whisper) - Whisper Worker for RunPod: Processing and transcribing audio with various Whisper models. Part of RunPod Workers collection.
-6. [**Serverless GGML**](https://github.com/OpenAccess-AI-Collective/servereless-runpod-ggml) - GGML Worker image for streaming predictions from large language models quantized with GGML.
+1. [**A1111 Worker**](https://github.com/ashleykleynhans/runpod-worker-a1111) - Automatic1111 Worker that leverages using a Network volume for storing models.
+2. [**DreamBooth Worker**](https://github.com/runpod-workers/worker-dreambooth) - RunPod worker for the DreamBooth endpoint.
+3. [**Face Swap Worker**](https://github.com/ashleykleynhans/runpod-worker-inswapper) - RunPod Serverless Worker for Face Swapping and Restoration powered by Insightface.
+4. [**Kandinsky Worker**](https://github.com/runpod-workers/worker-kandinsky) - RunPod worker for the Kandinsky endpoint.
+5. [**Oobabooga Text Generation Worker**](https://github.com/ashleykleynhans/runpod-worker-oobabooga) - RunPod Serverless Worker for Oobabooga Text Generation API for LLMs.
+6. [**Real-ESRGAN Upscaling Worker**](https://github.com/ashleykleynhans/runpod-worker-real-esrgan) - RunPod Serverless Worker for Real-ESRGAN Restoration and Upscaling.
+7. [**RVC Serverless**](https://github.com/chavinlo/rvc-runpod) - Simple RVC Serverless Endpoint for Runpod built upon Mangio-RVC-Fork.
+8. [**Serverless GGML**](https://github.com/OpenAccess-AI-Collective/servereless-runpod-ggml) - GGML Worker image for streaming predictions from large language models quantized with GGML.
+9. [**Stable Diffusion v1 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v1) - RunPod worker for all Stable Diffusion v1 endpoints.
+10. [**Stable Diffusion v2 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v2) - RunPod worker for the Stable Diffusion v2 endpoints.
+11. [**Template Worker**](https://github.com/runpod-workers/worker-template) - A simple worker that can be used as a starting point to build your own custom RunPod Endpoint API worker.
+12. [**Whisper Worker**](https://github.com/runpod-workers/worker-whisper) - Whisper Worker for RunPod: Processing and transcribing audio with various Whisper models. Part of RunPod Workers collection.
+
 
 <a name="resources"></a>
 
@@ -65,18 +73,20 @@ A list of Serverless Workers to kickstart your RunPod projects:
 
 A collection of useful resources to help you learn more about RunPod:
 
-1. [**RunPod Official Documentation**](https://docs.runpod.io/) - The official documentation for RunPod.
-2. [**RunPod Discord**](https://discord.gg/cUpRmau42V) - A Discord server for discussing RunPod-related topics with other users.
-3. [**RunPod Blog**](https://blog.runpod.io/) - A collection of blog posts for learning how to use RunPod.
+1. [**Getting Started with RunPod Serverless**](https://trapdoor.cloud/getting-started-with-runpod-serverless/) - A blog post to help you get started with RunPod Serverless.
+2. [**RunPod Blog**](https://blog.runpod.io/) - A collection of blog posts for learning how to use RunPod.
+3. [**RunPod Discord**](https://discord.gg/cUpRmau42V) - A Discord server for discussing RunPod-related topics with other users.
+4. [**RunPod Official Documentation**](https://docs.runpod.io/) - The official documentation for RunPod.
 
 <a name="videos"></a>
 
 ### Video Tutorials
-1. [**Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI**](https://youtu.be/QN1vdGhjcRc)
-2. [**RunPod Fix For DreamBooth & xFormers - How To Use Automatic1111 Web UI Stable Diffusion on RunPod**](https://youtu.be/zA4LksIVas8)
-3. [**On RunPod - Automatic1111 Stable Diffusion DreamBooth Guide: Optimal Classification Images Count Comparison Test**](https://youtu.be/Tb4IYIYm4os)
-4. [**Epic Web UI DreamBooth Update - New Best Settings - 10 Stable Diffusion Training Compared on RunPods**](https://youtu.be/sRdtVanSRl4)
-5. [**On RunPod - Training Midjourney Level Style And Yourself Into The SD 1.5 Model via DreamBooth Stable Diffusion**](https://youtu.be/m-UVVY_syP0)
+
+1. [**Epic Web UI DreamBooth Update - New Best Settings - 10 Stable Diffusion Training Compared on RunPods**](https://youtu.be/sRdtVanSRl4)
+2. [**On RunPod - Automatic1111 Stable Diffusion DreamBooth Guide: Optimal Classification Images Count Comparison Test**](https://youtu.be/Tb4IYIYm4os)
+3. [**On RunPod - Training Midjourney Level Style And Yourself Into The SD 1.5 Model via DreamBooth Stable Diffusion**](https://youtu.be/m-UVVY_syP0)
+4. [**RunPod Fix For DreamBooth & xFormers - How To Use Automatic1111 Web UI Stable Diffusion on RunPod**](https://youtu.be/zA4LksIVas8)
+5. [**Ultimate RunPod Tutorial For Stable Diffusion - Automatic1111 - Data Transfers, Extensions, CivitAI**](https://youtu.be/QN1vdGhjcRc)
 
 
 <a name="contributing"></a>
