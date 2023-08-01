@@ -42,7 +42,7 @@ A collection of awesome RunPod templates:
 2. [**Fast Stable Diffusion**](https://www.runpod.io/gsc?template=runpod-stable-unified) - Colab & Runpod & Paperspace adaptations AUTOMATIC1111 Webui and Dreambooth. [Repo/Readme](https://github.com/TheLastBen/fast-stable-diffusion)
 3. [**InvokeAI**](https://www.runpod.io/gsc?template=vm19ukkycf) - A Stable Diffusion Toolkit [Repo/Readme](https://github.com/invoke-ai/InvokeAI)
 4. [**KoboldAI**](https://koboldai.org/runpod) - Browser-based front-end for AI-assisted writing with multiple local & remote AI models [Repo/Readme](https://github.com/KoboldAI/KoboldAI-Client)
-5. [**Stable Diffusion/Dreambooth/ControlNet/Deforum/Roop/Kohya_ss**](https://runpod.io/gsc?template=ya6013lj5a&ref=2xxro4sy) - A combined template for theA AUTOMATIC1111 Web UI including the Dreambooth, ControlNet, Roop, Deforum and SDXL Refiner extensions, as well as Kohya_ss [Repo/Readme](https://github.com/ashleykleynhans/stable-diffusion-docker)
+5. [**Stable Diffusion/Dreambooth/ControlNet/Deforum/Roop/Kohya_ss**](https://runpod.io/gsc?template=ya6013lj5a&ref=2xxro4sy) - A combined template for the AUTOMATIC1111 Web UI including the Dreambooth, ControlNet, Roop, Deforum and SDXL Refiner extensions, as well as Kohya_ss [Repo/Readme](https://github.com/ashleykleynhans/stable-diffusion-docker)
 6. [**Text Generation Web UI and API**](https://runpod.io/gsc?template=el5m58e1to&ref=2xxro4sy) - Oobabooga Text Generation Web UI and API [Repo/Readme](https://github.com/ashleykleynhans/text-generation-docker)
 7. [**Kohya_ss**](https://runpod.io/gsc?template=51q837fywe&ref=2xxro4sy) - Kohya_ss fine tuning for Stable Diffusion [Repo/Readme](https://github.com/ashleykleynhans/kohya-docker)
 
