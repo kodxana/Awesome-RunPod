@@ -44,7 +44,7 @@ A collection of awesome RunPod templates:
 3. [**FaceFusion**](https://runpod.io/gsc?template=pxpldkhq6u&ref=2xxro4sy) - FaceFusion Face Swapper and Enhancer [Repo/Readme](https://github.com/ashleykleynhans/facefusion-docker)
 4. [**Fast Stable Diffusion**](https://www.runpod.io/gsc?template=runpod-stable-unified) - Colab & Runpod & Paperspace adaptations AUTOMATIC1111 Webui and Dreambooth. [Repo/Readme](https://github.com/TheLastBen/fast-stable-diffusion)
 5. [**Fooocus**](https://runpod.io/gsc?template=ileyo7dtpj&ref=2xxro4sy) - Focus on prompting and generating. [Repo/Readme](https://github.com/ashleykleynhans/fooocus-docker)
-6. {**InstantID**](https://runpod.io/gsc?template=10apqooxnz&ref=2xxro4sy) - InstantID : Zero-shot Identity-Preserving Generation in Seconds. [Repo/Readme](https://github.com/ashleykleynhans/instantid-docker)
+6. [**InstantID**](https://runpod.io/gsc?template=10apqooxnz&ref=2xxro4sy) - InstantID : Zero-shot Identity-Preserving Generation in Seconds. [Repo/Readme](https://github.com/ashleykleynhans/instantid-docker)
 7. [**InvokeAI**](https://www.runpod.io/gsc?template=vm19ukkycf) - A Stable Diffusion Toolkit [Repo/Readme](https://github.com/invoke-ai/InvokeAI)
 8. [**KoboldAI**](https://koboldai.org/runpod) - Browser-based front-end for AI-assisted writing with multiple local & remote AI models [Repo/Readme](https://github.com/KoboldAI/KoboldAI-Client)
 9. [**Kohya_ss**](https://runpod.io/gsc?template=51q837fywe&ref=2xxro4sy) - Kohya_ss fine tuning for Stable Diffusion [Repo/Readme](https://github.com/ashleykleynhans/kohya-docker)
@@ -65,16 +65,18 @@ A list of Serverless Workers to kickstart your RunPod projects:
 1. [**A1111 Worker**](https://github.com/ashleykleynhans/runpod-worker-a1111) - Automatic1111 Serverless Worker that leverages using a Network volume for storing models.
 2. [**DreamBooth Worker**](https://github.com/runpod-workers/worker-dreambooth) - RunPod Serverless worker for the DreamBooth endpoint.
 3. [**ExLlama Worker**](https://github.com/ashleykleynhans/exllama-runpod-serverless) - RunPod Serverless Worker for Text Generation Inference and Streaming using ExLlama.
-4. [**Face Swap Worker**](https://github.com/ashleykleynhans/runpod-worker-inswapper) - RunPod Serverless Worker for Face Swapping and Restoration powered by Insightface.
-5. [**Kandinsky Worker**](https://github.com/runpod-workers/worker-kandinsky) - RunPod worker for the Kandinsky endpoint.
-6. [**Oobabooga Text Generation Worker**](https://github.com/ashleykleynhans/runpod-worker-oobabooga) - RunPod Serverless Worker for Oobabooga Text Generation API for LLMs.
-7. [**Real-ESRGAN Upscaling Worker**](https://github.com/ashleykleynhans/runpod-worker-real-esrgan) - RunPod Serverless Worker for Real-ESRGAN Restoration and Upscaling.
-8. [**RVC Serverless**](https://github.com/chavinlo/rvc-runpod) - Simple RVC Serverless Endpoint for Runpod built upon Mangio-RVC-Fork.
-9. [**Serverless GGML**](https://github.com/OpenAccess-AI-Collective/servereless-runpod-ggml) - GGML Worker image for streaming predictions from large language models quantized with GGML.
-10. [**Stable Diffusion v1 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v1) - RunPod worker for all Stable Diffusion v1 endpoints.
-11. [**Stable Diffusion v2 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v2) - RunPod worker for the Stable Diffusion v2 endpoints.
-12. [**Template Worker**](https://github.com/runpod-workers/worker-template) - A simple worker that can be used as a starting point to build your own custom RunPod Endpoint API worker.
-13. [**Whisper Worker**](https://github.com/runpod-workers/worker-whisper) - Whisper Worker for RunPod: Processing and transcribing audio with various Whisper models. Part of RunPod Workers collection.
+4. [**ExLlamaV2 Worker**](https://github.com/ashleykleynhans/runpod-worker-exllamav2) - RunPod Serverless Worker for Text Generation Inference and Streaming using ExLlamaV2.
+5. [**Face Swap Worker**](https://github.com/ashleykleynhans/runpod-worker-inswapper) - RunPod Serverless Worker for Face Swapping and Restoration powered by Insightface.
+6. [**InstantID Worker**](https://github.com/ashleykleynhans/runpod-worker-instantid) - RunPod Serverless Worker for InstantID : Zero-shot Identity-Preserving Generation in Seconds.
+7. [**Kandinsky Worker**](https://github.com/runpod-workers/worker-kandinsky) - RunPod worker for the Kandinsky endpoint.
+8. [**Oobabooga Text Generation Worker**](https://github.com/ashleykleynhans/runpod-worker-oobabooga) - RunPod Serverless Worker for Oobabooga Text Generation API for LLMs.
+9. [**Real-ESRGAN Upscaling Worker**](https://github.com/ashleykleynhans/runpod-worker-real-esrgan) - RunPod Serverless Worker for Real-ESRGAN Restoration and Upscaling.
+10. [**RVC Serverless**](https://github.com/chavinlo/rvc-runpod) - Simple RVC Serverless Endpoint for Runpod built upon Mangio-RVC-Fork.
+11. [**Serverless GGML**](https://github.com/OpenAccess-AI-Collective/servereless-runpod-ggml) - GGML Worker image for streaming predictions from large language models quantized with GGML.
+12. [**Stable Diffusion v1 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v1) - RunPod worker for all Stable Diffusion v1 endpoints.
+13. [**Stable Diffusion v2 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v2) - RunPod worker for the Stable Diffusion v2 endpoints.
+14. [**Template Worker**](https://github.com/runpod-workers/worker-template) - A simple worker that can be used as a starting point to build your own custom RunPod Endpoint API worker.
+15. [**Whisper Worker**](https://github.com/runpod-workers/worker-whisper) - Whisper Worker for RunPod: Processing and transcribing audio with various Whisper models. Part of RunPod Workers collection.
 
 
 <a name="resources"></a>
