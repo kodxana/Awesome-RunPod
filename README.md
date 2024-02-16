@@ -51,9 +51,9 @@ A collection of awesome RunPod templates:
 10. [**LLaVA**](https://runpod.io/gsc?template=g7wd33iuwv&ref=2xxro4sy) - LLaVA: Large Language and Vision Assistant [Repo/Readme](https://github.com/ashleykleynhans/llava-docker)
 11. [**Rerender a Video**](https://runpod.io/gsc?template=hfucz07h1h&ref=2xxro4sy) - Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation [Repo/Readme](https://github.com/ashleykleynhans/rerender-a-video-docker)
 12. [**Stable Diffusion Kohya_ss ComfyUI Ultimate**](https://runpod.io/gsc?template=ya6013lj5a&ref=2xxro4sy) - A combined template for the AUTOMATIC1111 Web UI including the Dreambooth, ControlNet, Roop, Deforum extensions, as well as Kohya_ss and ComfyUI [Repo/Readme](https://github.com/ashleykleynhans/stable-diffusion-docker)
-13. [**Text Generation Web UI and API**](https://runpod.io/gsc?template=el5m58e1to&ref=2xxro4sy) - Oobabooga Text Generation Web UI and API [Repo/Readme](https://github.com/ashleykleynhans/text-generation-docker)
-14. [**Text To Speech Generation Web UI**](https://runpod.io/gsc?template=j898rhd8t6&ref=2xxro4sy) - Text To Speech Generation Web UI [Repo/Readme](https://github.com/ashleykleynhans/tts-generation-docker)
-15. [**Würstchen**](https://runpod.io/gsc?template=4n55rha19f&ref=2xxro4sy) - Würstchen Efficient Pretraining of Text-to-Image Models [Repo/Readme](https://github.com/ashleykleynhans/wuerstchen-docker)
+13. [**Stable Diffusion WebUI Forge**](https://runpod.io/gsc?template=gpsiphjvvd&ref=2xxro4sy) - Stable Diffusion Web UI Force [Repo/Readme](https://github.com/ashleykleynhans/forge-docker)
+14. [**Text Generation Web UI and API**](https://runpod.io/gsc?template=el5m58e1to&ref=2xxro4sy) - Oobabooga Text Generation Web UI and API [Repo/Readme](https://github.com/ashleykleynhans/text-generation-docker)
+15. [**Text To Speech Generation Web UI**](https://runpod.io/gsc?template=j898rhd8t6&ref=2xxro4sy) - Text To Speech Generation Web UI [Repo/Readme](https://github.com/ashleykleynhans/tts-generation-docker)
 
 
 <a name="workers"></a>
