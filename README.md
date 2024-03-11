@@ -39,21 +39,23 @@ A collection of awesome RunPod tools:
 
 A collection of awesome RunPod templates:
 
-1. [**AudioCraft Plus**](https://runpod.io/gsc?template=ks0mgazj0m&ref=2xxro4sy) - AudioCraft Plus: Music and Audio Generation [Repo/Readme](https://github.com/ashleykleynhans/audiocraft-docker)
-2. [**EveryDream2**](https://runpod.io/gsc?template=d1v63jb36t&ref=bbp9dh8x) - General fine tuning for Stable Diffusion [Repo/Readme](https://github.com/victorchall/EveryDream2trainer)
-3. [**FaceFusion**](https://runpod.io/gsc?template=pxpldkhq6u&ref=2xxro4sy) - FaceFusion Face Swapper and Enhancer [Repo/Readme](https://github.com/ashleykleynhans/facefusion-docker)
-4. [**Fast Stable Diffusion**](https://www.runpod.io/gsc?template=runpod-stable-unified) - Colab & Runpod & Paperspace adaptations AUTOMATIC1111 Webui and Dreambooth. [Repo/Readme](https://github.com/TheLastBen/fast-stable-diffusion)
-5. [**Fooocus**](https://runpod.io/gsc?template=ileyo7dtpj&ref=2xxro4sy) - Focus on prompting and generating. [Repo/Readme](https://github.com/ashleykleynhans/fooocus-docker)
-6. [**InstantID**](https://runpod.io/gsc?template=10apqooxnz&ref=2xxro4sy) - InstantID : Zero-shot Identity-Preserving Generation in Seconds. [Repo/Readme](https://github.com/ashleykleynhans/instantid-docker)
-7. [**InvokeAI**](https://www.runpod.io/gsc?template=vm19ukkycf) - A Stable Diffusion Toolkit [Repo/Readme](https://github.com/invoke-ai/InvokeAI)
-8. [**KoboldAI**](https://koboldai.org/runpod) - Browser-based front-end for AI-assisted writing with multiple local & remote AI models [Repo/Readme](https://github.com/KoboldAI/KoboldAI-Client)
-9. [**Kohya_ss**](https://runpod.io/gsc?template=51q837fywe&ref=2xxro4sy) - Kohya_ss fine tuning for Stable Diffusion [Repo/Readme](https://github.com/ashleykleynhans/kohya-docker)
-10. [**LLaVA**](https://runpod.io/gsc?template=g7wd33iuwv&ref=2xxro4sy) - LLaVA: Large Language and Vision Assistant [Repo/Readme](https://github.com/ashleykleynhans/llava-docker)
-11. [**Rerender a Video**](https://runpod.io/gsc?template=hfucz07h1h&ref=2xxro4sy) - Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation [Repo/Readme](https://github.com/ashleykleynhans/rerender-a-video-docker)
-12. [**Stable Diffusion Kohya_ss ComfyUI Ultimate**](https://runpod.io/gsc?template=ya6013lj5a&ref=2xxro4sy) - A combined template for the AUTOMATIC1111 Web UI including the Dreambooth, ControlNet, Roop, Deforum extensions, as well as Kohya_ss and ComfyUI [Repo/Readme](https://github.com/ashleykleynhans/stable-diffusion-docker)
-13. [**Stable Diffusion WebUI Forge**](https://runpod.io/gsc?template=gpsiphjvvd&ref=2xxro4sy) - Stable Diffusion Web UI Force [Repo/Readme](https://github.com/ashleykleynhans/forge-docker)
-14. [**Text Generation Web UI and API**](https://runpod.io/gsc?template=el5m58e1to&ref=2xxro4sy) - Oobabooga Text Generation Web UI and API [Repo/Readme](https://github.com/ashleykleynhans/text-generation-docker)
-15. [**Text To Speech Generation Web UI**](https://runpod.io/gsc?template=j898rhd8t6&ref=2xxro4sy) - Text To Speech Generation Web UI [Repo/Readme](https://github.com/ashleykleynhans/tts-generation-docker)
+1. [**A1111 Stable Diffusion**](https://runpod.io/console/gpu-cloud?template=ts8ze6urzh&ref=2xxro4sy) - Stable Diffusion Web UI by AUTOMATIC1111 [Repo/Readme](https://github.com/ashleykleynhans/a1111-docker)
+2. [**AudioCraft Plus**](https://runpod.io/gsc?template=ks0mgazj0m&ref=2xxro4sy) - AudioCraft Plus: Music and Audio Generation [Repo/Readme](https://github.com/ashleykleynhans/audiocraft-docker)
+3. [**EveryDream2**](https://runpod.io/gsc?template=d1v63jb36t&ref=bbp9dh8x) - General fine tuning for Stable Diffusion [Repo/Readme](https://github.com/victorchall/EveryDream2trainer)
+4. [**FaceFusion**](https://runpod.io/gsc?template=pxpldkhq6u&ref=2xxro4sy) - FaceFusion Face Swapper and Enhancer [Repo/Readme](https://github.com/ashleykleynhans/facefusion-docker)
+5. [**Fast Stable Diffusion**](https://www.runpod.io/gsc?template=runpod-stable-unified) - Colab & Runpod & Paperspace adaptations AUTOMATIC1111 Webui and Dreambooth. [Repo/Readme](https://github.com/TheLastBen/fast-stable-diffusion)
+6. [**Fooocus**](https://runpod.io/gsc?template=ileyo7dtpj&ref=2xxro4sy) - Focus on prompting and generating. [Repo/Readme](https://github.com/ashleykleynhans/fooocus-docker)
+7. [**InstantID**](https://runpod.io/gsc?template=10apqooxnz&ref=2xxro4sy) - InstantID : Zero-shot Identity-Preserving Generation in Seconds. [Repo/Readme](https://github.com/ashleykleynhans/instantid-docker)
+8. [**InvokeAI**](https://www.runpod.io/gsc?template=vm19ukkycf) - A Stable Diffusion Toolkit [Repo/Readme](https://github.com/invoke-ai/InvokeAI)
+9. [**KoboldAI**](https://koboldai.org/runpod) - Browser-based front-end for AI-assisted writing with multiple local & remote AI models [Repo/Readme](https://github.com/KoboldAI/KoboldAI-Client)
+10. [**Kohya_ss**](https://runpod.io/gsc?template=51q837fywe&ref=2xxro4sy) - Kohya_ss fine tuning for Stable Diffusion [Repo/Readme](https://github.com/ashleykleynhans/kohya-docker)
+11. [**LLaVA**](https://runpod.io/gsc?template=g7wd33iuwv&ref=2xxro4sy) - LLaVA: Large Language and Vision Assistant [Repo/Readme](https://github.com/ashleykleynhans/llava-docker)
+12. [**Rerender a Video**](https://runpod.io/gsc?template=hfucz07h1h&ref=2xxro4sy) - Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation [Repo/Readme](https://github.com/ashleykleynhans/rerender-a-video-docker)
+13. [**Stable Diffusion Kohya_ss ComfyUI Ultimate**](https://runpod.io/gsc?template=ya6013lj5a&ref=2xxro4sy) - A combined template for the AUTOMATIC1111 Web UI including the Dreambooth, ControlNet, Roop, Deforum extensions, as well as Kohya_ss and ComfyUI [Repo/Readme](https://github.com/ashleykleynhans/stable-diffusion-docker)
+14. [**Stable Diffusion WebUI Forge**](https://runpod.io/gsc?template=gpsiphjvvd&ref=2xxro4sy) - Stable Diffusion Web UI Force [Repo/Readme](https://github.com/ashleykleynhans/forge-docker)
+15. [**SUPIR Upscaling and Restoration**](https://runpod.io/console/gpu-cloud?template=aa31uo64wv&ref=2xxro4sy) - SUPIR Upscaling and Restoration [Repo/Readme](https://github.com/ashleykleynhans/supir-docker)
+16. [**Text Generation Web UI and API**](https://runpod.io/gsc?template=el5m58e1to&ref=2xxro4sy) - Oobabooga Text Generation Web UI and API [Repo/Readme](https://github.com/ashleykleynhans/text-generation-docker)
+17. [**Text To Speech Generation Web UI**](https://runpod.io/gsc?template=j898rhd8t6&ref=2xxro4sy) - Text To Speech Generation Web UI [Repo/Readme](https://github.com/ashleykleynhans/tts-generation-docker)
 
 
 <a name="workers"></a>
@@ -67,16 +69,17 @@ A list of Serverless Workers to kickstart your RunPod projects:
 3. [**ExLlama Worker**](https://github.com/ashleykleynhans/exllama-runpod-serverless) - RunPod Serverless Worker for Text Generation Inference and Streaming using ExLlama.
 4. [**ExLlamaV2 Worker**](https://github.com/ashleykleynhans/runpod-worker-exllamav2) - RunPod Serverless Worker for Text Generation Inference and Streaming using ExLlamaV2.
 5. [**Face Swap Worker**](https://github.com/ashleykleynhans/runpod-worker-inswapper) - RunPod Serverless Worker for Face Swapping and Restoration powered by Insightface.
-6. [**InstantID Worker**](https://github.com/ashleykleynhans/runpod-worker-instantid) - RunPod Serverless Worker for InstantID : Zero-shot Identity-Preserving Generation in Seconds.
-7. [**Kandinsky Worker**](https://github.com/runpod-workers/worker-kandinsky) - RunPod worker for the Kandinsky endpoint.
-8. [**Oobabooga Text Generation Worker**](https://github.com/ashleykleynhans/runpod-worker-oobabooga) - RunPod Serverless Worker for Oobabooga Text Generation API for LLMs.
-9. [**Real-ESRGAN Upscaling Worker**](https://github.com/ashleykleynhans/runpod-worker-real-esrgan) - RunPod Serverless Worker for Real-ESRGAN Restoration and Upscaling.
-10. [**RVC Serverless**](https://github.com/chavinlo/rvc-runpod) - Simple RVC Serverless Endpoint for Runpod built upon Mangio-RVC-Fork.
-11. [**Serverless GGML**](https://github.com/OpenAccess-AI-Collective/servereless-runpod-ggml) - GGML Worker image for streaming predictions from large language models quantized with GGML.
-12. [**Stable Diffusion v1 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v1) - RunPod worker for all Stable Diffusion v1 endpoints.
-13. [**Stable Diffusion v2 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v2) - RunPod worker for the Stable Diffusion v2 endpoints.
-14. [**Template Worker**](https://github.com/runpod-workers/worker-template) - A simple worker that can be used as a starting point to build your own custom RunPod Endpoint API worker.
-15. [**Whisper Worker**](https://github.com/runpod-workers/worker-whisper) - Whisper Worker for RunPod: Processing and transcribing audio with various Whisper models. Part of RunPod Workers collection.
+6. [**Forge Worker**](https://github.com/ashleykleynhans/runpod-worker-forge) - RunPod Serverless Worker for Stable Diffusion WebUI Forge.
+7. [**InstantID Worker**](https://github.com/ashleykleynhans/runpod-worker-instantid) - RunPod Serverless Worker for InstantID : Zero-shot Identity-Preserving Generation in Seconds.
+8. [**Kandinsky Worker**](https://github.com/runpod-workers/worker-kandinsky) - RunPod worker for the Kandinsky endpoint.
+9. [**Oobabooga Text Generation Worker**](https://github.com/ashleykleynhans/runpod-worker-oobabooga) - RunPod Serverless Worker for Oobabooga Text Generation API for LLMs.
+10. [**Real-ESRGAN Upscaling Worker**](https://github.com/ashleykleynhans/runpod-worker-real-esrgan) - RunPod Serverless Worker for Real-ESRGAN Restoration and Upscaling.
+11. [**RVC Serverless**](https://github.com/chavinlo/rvc-runpod) - Simple RVC Serverless Endpoint for Runpod built upon Mangio-RVC-Fork.
+12. [**Serverless GGML**](https://github.com/OpenAccess-AI-Collective/servereless-runpod-ggml) - GGML Worker image for streaming predictions from large language models quantized with GGML.
+13. [**Stable Diffusion v1 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v1) - RunPod worker for all Stable Diffusion v1 endpoints.
+14. [**Stable Diffusion v2 Worker**](https://github.com/runpod-workers/worker-stable_diffusion_v2) - RunPod worker for the Stable Diffusion v2 endpoints.
+15. [**Template Worker**](https://github.com/runpod-workers/worker-template) - A simple worker that can be used as a starting point to build your own custom RunPod Endpoint API worker.
+16. [**Whisper Worker**](https://github.com/runpod-workers/worker-whisper) - Whisper Worker for RunPod: Processing and transcribing audio with various Whisper models. Part of RunPod Workers collection.
 
 
 <a name="resources"></a>
