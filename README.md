@@ -70,9 +70,8 @@
 [Aphrodite Engine]: https://runpod.io/console/deploy?template=sbb7ew61t6&ref=2xxro4sy
 [AudioCraft Plus]: https://runpod.io/gsc?template=ks0mgazj0m&ref=2xxro4sy
 [ComfyUI]: https://runpod.io/console/deploy?template=9eqyhd7vs0&ref=2xxro4sy
-[EveryDream2]: https://runpod.io/gsc?template=d1v63jb36t&ref=bbp9dh8x
+[EveryDream2]: https://runpod.io/console/deploy?template=cpl3xoknjz&ref=vfker49t
 [FaceFusion]: https://runpod.io/gsc?template=pxpldkhq6u&ref=2xxro4sy
-[Fast Stable Diffusion]: https://www.runpod.io/gsc?template=runpod-stable-unified
 [Fooocus]: https://runpod.io/gsc?template=ileyo7dtpj&ref=2xxro4sy
 [hallo]: https://runpod.io/console/deploy?template=aeyibwyvzy&ref=2xxro4sy
 [InstantID]: https://runpod.io/gsc?template=10apqooxnz&ref=2xxro4sy
