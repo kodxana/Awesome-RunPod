@@ -80,7 +80,7 @@
 [InstantStyle]: https://runpod.io/console/deploy?template=vs54kmvs95&ref=2xxro4sy
 [InvokeAI]: https://runpod.io/console/deploy?template=ehqjd8o6xs&ref=2xxro4sy
 [InvokeAI (alt)]: https://www.runpod.io/gsc?template=vm19ukkycf
-[KoboldAI]: https://koboldai.org/runpod
+[KoboldAI]: https://koboldai.org/runpodcpp
 [Kohya_ss]: https://runpod.io/gsc?template=51q837fywe&ref=2xxro4sy
 [LivePortrait]: https://runpod.io/console/deploy?template=bq3dmz6nwp&ref=2xxro4sy
 [LLaVA]: https://runpod.io/gsc?template=g7wd33iuwv&ref=2xxro4sy
@@ -95,7 +95,8 @@
 [ashleykleynhans]: https://github.com/ashleykleynhans
 [victorchall]: https://github.com/victorchall
 [invoke-ai]: https://github.com/invoke-ai
-[KoboldAI]: https://github.com/KoboldAI
+[KoboldAI]: https://koboldai.com
+[Henk717]: https://github.com/henk717
 
 ## Serverless Workers
 
