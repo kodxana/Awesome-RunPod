@@ -56,7 +56,7 @@
 | [InstantStyle] | Free Lunch towards Style-Preserving in Text-to-Image Generation | [ashleykleynhans] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/ashleykleynhans/instantstyle-docker) ![GitHub stars](https://img.shields.io/github/stars/ashleykleynhans/instantstyle-docker?style=social) |
 | [InvokeAI] | InvokeAI: Professional Creative AI Tools for Visual Media | [ashleykleynhans] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/ashleykleynhans/invokeai-docker) ![GitHub stars](https://img.shields.io/github/stars/ashleykleynhans/invokeai-docker?style=social) |
 | [InvokeAI (alt)] | A Stable Diffusion Toolkit | [invoke-ai] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/invoke-ai/InvokeAI) ![GitHub stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social) |
-| [KoboldCpp] | A powerful GGUF based backend for Text Generation, Image Generation/Recognition and more. Comes bundled with the Powerful KobodlAI Lite WebUI and KoboldAI/OpenAI API support.| [KoboldAI] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/lostruins/koboldcpp) ![GitHub stars](https://img.shields.io/github/stars/lostruins/koboldcpp?style=social) |
+| [KoboldCpp] | A powerful GGUF based backend for Text Generation, Image Generation/Recognition and more. Comes bundled with the flexible KoboldAI Lite WebUI and KoboldAI/OpenAI API support.| [KoboldAI] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/lostruins/koboldcpp) ![GitHub stars](https://img.shields.io/github/stars/lostruins/koboldcpp?style=social) |
 | [Kohya_ss] | Kohya_ss fine tuning for Stable Diffusion | [ashleykleynhans] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/ashleykleynhans/kohya-docker) ![GitHub stars](https://img.shields.io/github/stars/ashleykleynhans/kohya-docker?style=social) |
 | [LivePortrait] | LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control | [ashleykleynhans] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/ashleykleynhans/liveportrait-docker) ![GitHub stars](https://img.shields.io/github/stars/ashleykleynhans/liveportrait-docker?style=social) |
 | [LLaVA] | LLaVA: Large Language and Vision Assistant | [ashleykleynhans] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/ashleykleynhans/llava-docker) ![GitHub stars](https://img.shields.io/github/stars/ashleykleynhans/llava-docker?style=social) |
@@ -72,6 +72,8 @@
 [Aphrodite Engine]: https://runpod.io/console/deploy?template=sbb7ew61t6&ref=2xxro4sy
 [AudioCraft Plus]: https://runpod.io/gsc?template=ks0mgazj0m&ref=2xxro4sy
 [ComfyUI]: https://runpod.io/console/deploy?template=9eqyhd7vs0&ref=2xxro4sy
+[Condecanvas]: https://henk.tech/ccrunpod
+[Codecanvas NPE]: https://henk.tech/ccnperunpod
 [EveryDream2]: https://runpod.io/console/deploy?template=cpl3xoknjz&ref=vfker49t
 [FaceFusion]: https://runpod.io/gsc?template=pxpldkhq6u&ref=2xxro4sy
 [Fooocus]: https://runpod.io/gsc?template=ileyo7dtpj&ref=2xxro4sy
