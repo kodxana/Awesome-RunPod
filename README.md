@@ -72,7 +72,7 @@
 [Aphrodite Engine]: https://runpod.io/console/deploy?template=sbb7ew61t6&ref=2xxro4sy
 [AudioCraft Plus]: https://runpod.io/gsc?template=ks0mgazj0m&ref=2xxro4sy
 [ComfyUI]: https://runpod.io/console/deploy?template=9eqyhd7vs0&ref=2xxro4sy
-[Condecanvas]: https://henk.tech/ccrunpod
+[Codecanvas]: https://henk.tech/ccrunpod
 [Codecanvas NPE]: https://henk.tech/ccnperunpod
 [EveryDream2]: https://runpod.io/console/deploy?template=cpl3xoknjz&ref=vfker49t
 [FaceFusion]: https://runpod.io/gsc?template=pxpldkhq6u&ref=2xxro4sy
