@@ -61,6 +61,7 @@
 
 | Worker | Description | Author | Repository |
 |--------|-------------|--------|------------|
+| [Aphrodite Engine Worker] | RunPod Serverless worker for Aphrodite Engine | [joachimchauvet] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/joachimchauvet/worker-aphrodite-engine) ![GitHub stars](https://img.shields.io/github/stars/joachimchauvet/worker-aphrodite-engine?style=social) |
 | [DreamBooth Worker] | RunPod Serverless worker for the DreamBooth endpoint | [runpod-workers] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/runpod-workers/worker-dreambooth) ![GitHub stars](https://img.shields.io/github/stars/runpod-workers/worker-dreambooth?style=social) |
 | [DeOldify worker] | RunPod Serverless worker for the restoration of old photos endpoint | [kodxana] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/kodxana/worker-deoldify) ![GitHub stars](https://img.shields.io/github/stars/kodxana/worker-deoldify?style=social) |
 | [Kandinsky Worker] | RunPod worker for the Kandinsky endpoint | [runpod-workers] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/runpod-workers/worker-kandinsky) ![GitHub stars](https://img.shields.io/github/stars/runpod-workers/worker-kandinsky?style=social) |
@@ -71,6 +72,7 @@
 | [Template Worker] | A simple worker that can be used as a starting point to build your own custom RunPod Endpoint API worker | [runpod-workers] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/runpod-workers/worker-template) ![GitHub stars](https://img.shields.io/github/stars/runpod-workers/worker-template?style=social) |
 | [Whisper Worker] | Whisper Worker for RunPod: Processing and transcribing audio with various Whisper models | [runpod-workers] | [![GitHub Repo](https://img.shields.io/badge/Repo-Github-brightgreen?style=flat-square&logo=github)](https://github.com/runpod-workers/worker-whisper) ![GitHub stars](https://img.shields.io/github/stars/runpod-workers/worker-whisper?style=social) |
 
+[Aphrodite Engine Worker]: https://github.com/joachimchauvet/worker-aphrodite-engine
 [DreamBooth Worker]: https://github.com/runpod-workers/worker-dreambooth
 [DeOldify worker]: https://github.com/kodxana/worker-deoldify
 [Kandinsky Worker]: https://github.com/runpod-workers/worker-kandinsky
@@ -85,6 +87,7 @@
 [kodxana]: https://github.com/kodxana
 [chavinlo]: https://github.com/chavinlo
 [OpenAccess-AI-Collective]: https://github.com/OpenAccess-AI-Collective
+[joachimchauvet]: https://github.com/joachimchauvet
 ## Resources
 
 | Resource                                  | Description                                  |
